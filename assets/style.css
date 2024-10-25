@@ -1,0 +1,5 @@
+.grid-conteier{
+    display:grid;
+    grid-template-columns: auto;
+    background-color: lightslategray;
+}
